@@ -1,0 +1,11 @@
+.button {
+  font-family: helvetica;
+  border: 1px solid black;
+  padding: 5px;
+  cursor: pointer;
+  width: 100px;
+  border-radius: 4px;
+}
+.button:hover{
+  background: #ccc;
+}
